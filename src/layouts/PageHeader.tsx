@@ -147,10 +147,7 @@ export function PageHeaderFirstSection({
         <Menu />
       </Button>
       <a href="/">
-        <img
-          src="https://www.seekpng.com/png/detail/77-772362_youtube-logo-youtube-logo-png.png"
-          className="w-[120px]"
-        />
+        <img src="/yt-logo.png" className="w-[110px]" />
       </a>
     </div>
   );
