@@ -1,4 +1,4 @@
-import { ArrowLeft, Bell, Menu, Mic, Search, Upload, User } from 'lucide-react';
+import { ArrowLeft, Menu, Mic, Search } from 'lucide-react';
 import { Button } from '../components/Button';
 import { useState } from 'react';
 import { useSidebarContext } from '../contexts/SidebarContext';
